@@ -1,0 +1,12 @@
+html {
+    width: 100%;
+}
+
+body {
+    background-color:rgb(30, 69, 69);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+
+    max-width: 800px;
+    margin: auto;
+}
